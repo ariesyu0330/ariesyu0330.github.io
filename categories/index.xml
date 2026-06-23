@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on 途中拾光</title>
-		<link>https://ariesyu0330.github.io/categories/</link>
+		<link>http://localhost:1313/categories/</link>
 		<description>Recent content in Categories on 途中拾光</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Mon, 22 Jun 2026 21:30:47 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 23 Jun 2026 20:00:47 +0800</lastBuildDate>
 		
-			<atom:link href="https://ariesyu0330.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Music</title>
+				<link>http://localhost:1313/categories/music/</link>
+				<pubDate>Tue, 23 Jun 2026 20:00:47 +0800</pubDate>
+				<guid>http://localhost:1313/categories/music/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Live</title>
-				<link>https://ariesyu0330.github.io/categories/live/</link>
+				<link>http://localhost:1313/categories/live/</link>
 				<pubDate>Mon, 22 Jun 2026 21:30:47 +0800</pubDate>
-				<guid>https://ariesyu0330.github.io/categories/live/</guid>
+				<guid>http://localhost:1313/categories/live/</guid>
 				<description></description>
 			</item>
 	</channel>

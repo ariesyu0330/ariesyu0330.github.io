@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>blog on 途中拾光</title>
-		<link>https://ariesyu0330.github.io/blog/</link>
+		<link>http://localhost:1313/blog/</link>
 		<description>Recent content in blog on 途中拾光</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Mon, 22 Jun 2026 21:30:47 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 23 Jun 2026 20:00:47 +0800</lastBuildDate>
 		
-			<atom:link href="https://ariesyu0330.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>絆ノ奇跡 - MAN WITH A MISSION × milet</title>
+				<link>http://localhost:1313/blog/milet/</link>
+				<pubDate>Tue, 23 Jun 2026 20:00:47 +0800</pubDate>
+				<guid>http://localhost:1313/blog/milet/</guid>
+				<description>&lt;p&gt;這首歌是我第一個學會唱的日語歌，至今在我心中的日語金曲排行榜No.1&lt;/p&gt;&#xA;&lt;p&gt;認識這首歌主要是因為鬼滅之刃刀匠村篇片頭曲的關係&lt;/p&gt;&#xA;&lt;p&gt;當時雖然不是完整版，但聽完一次過後，只要每播一集，就一定聽完不會跳過&lt;/p&gt;&#xA;&lt;p&gt;再搭配上動畫的演出，完完全全給人熱血沸騰的感覺。&lt;/p&gt;&#xA;&lt;p&gt;而milet則是因為日劇《秘密內幕～女警的反擊～》主題曲-Ordinary days就被圈粉&lt;/p&gt;&#xA;&lt;p&gt;之後於2023年參加她的個人演唱會並達成第一個日本歌手演唱會的成就&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.billboard.com/wp-content/uploads/2020/05/milet-2020-cr-Billboard-Japan-1548-1589470811.jpg?w=1024&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;下次再開個主題好好介紹這位歌手與這部日劇&lt;/p&gt;&#xA;&lt;p&gt;先讓我們來享受這首歌曲吧!&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>在旅行、書頁、音樂與人際的溫度裡，拾起屬於自己的光</title>
-				<link>https://ariesyu0330.github.io/blog/first/</link>
+				<link>http://localhost:1313/blog/first/</link>
 				<pubDate>Mon, 22 Jun 2026 21:30:47 +0800</pubDate>
-				<guid>https://ariesyu0330.github.io/blog/first/</guid>
+				<guid>http://localhost:1313/blog/first/</guid>
 				<description>&lt;h5 id=&#34;一個人的遠方&#34;&gt;一個人的遠方&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;獨旅日誌&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;謝幕之後&#34;&gt;謝幕之後&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;觀劇心得&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;書頁之間&#34;&gt;書頁之間&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;閱讀紀錄&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;那些被音樂照亮的夜晚&#34;&gt;那些被音樂照亮的夜晚&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;演唱會分享&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;文藝薰陶&#34;&gt;文藝薰陶&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;博物館、美術館展覽紀錄&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;微醺筆記&#34;&gt;微醺筆記&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;調酒紀錄&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;同行的風景&#34;&gt;同行的風景&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;與友人相處時光&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;字句與旋律之間&#34;&gt;字句與旋律之間&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;詩詞、歌曲分享&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;尚未抵達的風景&#34;&gt;尚未抵達的風景&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;人生100件目標&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;這裡只是一個喜歡獨自旅行的人&lt;/p&gt;</description>
 			</item>
 	</channel>
